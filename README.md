@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Credit Approval Fairness Audit
 
 [![Analysis](https://img.shields.io/badge/analysis-responsible%20AI-blue)]()
