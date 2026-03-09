@@ -1,0 +1,4 @@
+region_income_band,annual_income,credit_score,existing_debt,debt_to_income_ratio,missed_payments_12m,years_at_address,requested_limit,model_score
+High,66239.07,699.85,13204.14,0.22,0.7,8.49,5576.07,0.54
+Low,59435.57,680.88,15693.69,0.29,0.84,6.73,5610.64,0.34
+Medium,64034.89,689.4,14377.34,0.25,0.77,7.53,5856.44,0.51
