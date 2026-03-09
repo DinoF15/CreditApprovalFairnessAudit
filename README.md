@@ -2,6 +2,8 @@ cat << 'EOF' > README.md
 # Credit Approval Fairness Audit
 
 [![Analysis](https://img.shields.io/badge/analysis-responsible%20AI-blue)]()
+📄 **Full Investigation Report**  
+[View the Credit Application Investigation](BankingCCApplicationsInvestigation-DinoFejzulovic.pdf)
 
 The **Credit Approval Fairness Audit** is a data science and governance analysis project that investigates potential bias within an automated credit card approval model. Using a synthetic banking dataset, the project evaluates how geographic indicators such as postal codes may function as proxy variables and influence credit approval decisions.
 
@@ -107,10 +109,11 @@ CSV reports for governance analysis
 
 ---
 
-# Repository Structure
 
-\`\`\`
-CreditApprovalFairnessAudit
+## Repository Structure
+
+```
+CreditApprovalFairnessAudit/
 │
 ├── CreditApprovalFairnessAudit.ipynb
 │   Main analysis notebook
@@ -126,41 +129,41 @@ CreditApprovalFairnessAudit
 │
 └── README.md
     Project overview and documentation
-\`\`\`
+```
 
 ---
 
-# Getting Started
+## Getting Started
 
-## Prerequisites
+### Prerequisites
 
-- Python 3.10 or later  
-- pip  
-- Jupyter Notebook  
+- Python 3.10 or later
+- pip
+- Jupyter Notebook
 
-## Clone the Repository
+### Clone the Repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/DinoF15/CreditApprovalFairnessAudit.git
-\`\`\`
+```
 
-## Navigate to the Project
+### Navigate to the Project
 
-\`\`\`bash
+```bash
 cd CreditApprovalFairnessAudit
-\`\`\`
+```
 
-## Install Dependencies
+### Install Dependencies
 
-\`\`\`bash
+```bash
 pip install pandas numpy plotly jupyter
-\`\`\`
+```
 
-## Run the Notebook
+### Run the Notebook
 
-\`\`\`bash
+```bash
 jupyter notebook
-\`\`\`
+```
 
 Open **CreditApprovalFairnessAudit.ipynb** and run the cells to reproduce the full governance analysis.
 
