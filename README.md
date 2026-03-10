@@ -1,8 +1,12 @@
 # Credit Approval Fairness Audit
 
 [![Analysis](https://img.shields.io/badge/analysis-responsible%20AI-blue)]()
-📄 **Full Investigation Report**  
-[View the Credit Application Investigation](BankingCCApplicationsInvestigation-DinoFejzulovic.pdf)
+**Full Governance Action Plan**
+[View the Governance Action Plan](GovernanceActionPlan-DinoFejzulovic.pdf)
+ **Full Investigation Report**  
+[View the Credit Application Investigation](CreditModelGovernancePlan.pdf)
+
+
 
 The **Credit Approval Fairness Audit** is a data science and governance analysis project that investigates potential bias within an automated credit card approval model. Using a synthetic banking dataset, the project evaluates how geographic indicators such as postal codes may function as proxy variables and influence credit approval decisions.
 
