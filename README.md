@@ -1,6 +1,9 @@
 # Credit Approval Fairness Audit
 
 [![Analysis](https://img.shields.io/badge/analysis-responsible%20AI-blue)]()
+
+---
+
 **Full Governance Action Plan**
 
 [View the Governance Action Plan](GovernanceActionPlan-DinoFejzulovic.pdf)
