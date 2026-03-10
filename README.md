@@ -6,13 +6,13 @@
 
 **Full Governance Action Plan**
 
-[View the Governance Action Plan](GovernanceActionPlan-DinoFejzulovic.pdf)
+[View the Governance Action Plan](CreditModelGovernancePlan.pdf)
 
 ---
 
 
  **Full Investigation Report**  
-[View the Credit Application Investigation](CreditModelGovernancePlan.pdf)
+[View the Credit Application Investigation](BankingCCApplicationsInvestigation-DinoFejzulovic.pdf)
 
 
 
