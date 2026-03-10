@@ -2,7 +2,12 @@
 
 [![Analysis](https://img.shields.io/badge/analysis-responsible%20AI-blue)]()
 **Full Governance Action Plan**
+
 [View the Governance Action Plan](GovernanceActionPlan-DinoFejzulovic.pdf)
+
+---
+
+
  **Full Investigation Report**  
 [View the Credit Application Investigation](CreditModelGovernancePlan.pdf)
 
